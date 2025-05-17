@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: #BEF73E;
+}
+
+header {
+    background-color: #D9D9D9;
+}
+
+main p {
+    background-color: #74E868;
+}
+
+footer {
+    background-color:#D9D9D9;
+}
+
+.butt {
+     background-color: #6899D3;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+}
+
